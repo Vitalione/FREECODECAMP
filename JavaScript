@@ -1,1 +1,2 @@
 JavaScript
+Quoting Strings with Single Quotes
