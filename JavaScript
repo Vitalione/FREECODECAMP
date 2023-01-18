@@ -1,3 +1,5 @@
 JavaScript
 Quoting Strings with Single Quotes
 Use Bracket Notation to Find the First Character in a String
+Understand String Immutability
+
