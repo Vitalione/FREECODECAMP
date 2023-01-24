@@ -19,3 +19,8 @@ function simpleMultiplication(number) {
     // your code........
   return number * (number % 2 > 0 ? 9 : 8)
 }
+
+
+function reverseWords(str){
+  return str.split(' ').reverse().join(' '); // reverse those words
+}
