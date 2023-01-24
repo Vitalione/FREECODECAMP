@@ -7,3 +7,4 @@ Access Multi-Dimensional Arrays With Indexes
 Manipulate Arrays With unshift()
 Write Reusable JavaScript with Functions
 JavaScript with Functions
+Global Scope and Functions
