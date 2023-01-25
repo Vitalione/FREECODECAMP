@@ -24,3 +24,8 @@ function simpleMultiplication(number) {
 function reverseWords(str){
   return str.split(' ').reverse().join(' '); // reverse those words
 }
+
+
+function howManyLightsabersDoYouOwn(name) {
+  return name === 'Zach' ? 18 : 0;
+}
