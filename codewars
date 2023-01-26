@@ -70,3 +70,12 @@ function booleanToString(b){
     return "false";
   }
 }
+
+
+function monkeyCount(n) {
+  var monkey = [];
+  for (i = 1; i <= n; i++) {
+    monkey.push(i);
+  }
+  return monkey;
+}
