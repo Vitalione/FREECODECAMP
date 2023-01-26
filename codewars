@@ -61,3 +61,12 @@ const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
 
 
 sayHello = name => 'Hello, ' + name;
+
+
+function booleanToString(b){
+  if(b){
+    return "true";
+  }else{
+    return "false";
+  }
+}
