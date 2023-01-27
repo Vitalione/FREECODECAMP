@@ -151,3 +151,9 @@ function switchItUp(number) {
       return 'Nine'
   }
 }
+
+
+
+function stringToNumber(str) {
+return Number(str)
+}
