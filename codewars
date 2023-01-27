@@ -119,3 +119,8 @@ function numberToPower(number, power){
   }
   return result
 }
+
+
+function makeNegative(num) {
+  return Math.sign(num) === 1 ? -num : num
+}
