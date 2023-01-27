@@ -10,3 +10,4 @@ JavaScript with Functions
 Global Scope and Functions
 Understanding Undefined Value returned from a Function
 Use Conditional Logic with If Statements
+Comparison with the Strict Equality Operator
