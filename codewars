@@ -110,3 +110,12 @@ function duckDuckGoose(players, goose) {
   
   return players[(goose-1)%players.length].name
 }
+
+
+function numberToPower(number, power){
+  result = 1
+  for (let i=1; i <= power; i++){
+    result = result * number;
+  }
+  return result
+}
