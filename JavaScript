@@ -13,3 +13,4 @@ Use Conditional Logic with If Statements
 Comparison with the Strict Equality Operator
 Comparison with the Strict Inequality Operator
 Comparisons with the Logical And Operator
+Logical Order in If Else Statements
