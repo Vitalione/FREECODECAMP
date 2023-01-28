@@ -198,3 +198,12 @@ function getRealFloor(n) {
   if (n < 13) return n - 1
   if (n >= 13) return n - 2
 }
+
+
+
+function doubleChar(string) {
+  return string
+    .split('')
+    .map(char => `${char}${char}`)
+    .join('')
+}
