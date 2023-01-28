@@ -16,3 +16,4 @@ Comparisons with the Logical And Operator
 Logical Order in If Else Statements
 Golf Code
 Selecting from Many Options with Switch Statements
+Adding a Default Option in Switch Statements
