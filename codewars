@@ -40,6 +40,16 @@ function powersOfTwo(n){
 }
 
 
+function betterThanAverage(classPoints, yourPoints) {
+  // Your code here
+  let classAvg = 0;
+  for (let i = 0; i < classPoints.length; i++){
+    classAvg += classPoints[i]; 
+  }
+  classAvg = classAvg/classPoints.length; 
+  return yourPoints > classAvg;
+}
+
 
 var humanYearsCatYearsDogYears = function(humanYears) {
   if (humanYears <= 2)
